@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T16:01:28 IST" name="DemoProject" finished-at="2024-03-27T16:02:04 IST" duration-ms="35702">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T16:01:28 IST" name="Test" finished-at="2024-03-27T16:02:04 IST" duration-ms="35702">
+      <class name="com.Test.testCases.TC001_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Test.testCases.TC001_LoginTest@7674f035]" started-at="2024-03-27T16:01:29 IST" name="setup" finished-at="2024-03-27T16:01:32 IST" duration-ms="3030" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializeLoginTest()[pri:0, instance:com.Test.testCases.TC001_LoginTest@7674f035]" started-at="2024-03-27T16:01:32 IST" name="initializeLoginTest" finished-at="2024-03-27T16:01:32 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeLoginTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.Test.testCases.TC001_LoginTest@7674f035]" started-at="2024-03-27T16:01:32 IST" name="loginTest" finished-at="2024-03-27T16:01:45 IST" duration-ms="12905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.Test.testCases.TC001_LoginTest@7674f035]" started-at="2024-03-27T16:01:45 IST" name="finish" finished-at="2024-03-27T16:01:46 IST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.testCases.TC001_LoginTest@7674f035]" started-at="2024-03-27T16:01:46 IST" name="tearDown" finished-at="2024-03-27T16:01:46 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.testCases.TC001_LoginTest -->
+      <class name="com.Test.testCases.TC002_NewCustomerTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Test.testCases.TC002_NewCustomerTest@248e319b]" started-at="2024-03-27T16:01:46 IST" name="setup" finished-at="2024-03-27T16:01:48 IST" duration-ms="1965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializeNewCustomerTest()[pri:0, instance:com.Test.testCases.TC002_NewCustomerTest@248e319b]" started-at="2024-03-27T16:01:48 IST" name="initializeNewCustomerTest" finished-at="2024-03-27T16:01:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeNewCustomerTest -->
+        <test-method signature="newCustomerTest()[pri:0, instance:com.Test.testCases.TC002_NewCustomerTest@248e319b]" started-at="2024-03-27T16:01:48 IST" name="newCustomerTest" finished-at="2024-03-27T16:02:04 IST" duration-ms="15368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCustomerTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.Test.testCases.TC002_NewCustomerTest@248e319b]" started-at="2024-03-27T16:02:04 IST" name="finish" finished-at="2024-03-27T16:02:04 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.testCases.TC002_NewCustomerTest@248e319b]" started-at="2024-03-27T16:02:04 IST" name="tearDown" finished-at="2024-03-27T16:02:04 IST" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.testCases.TC002_NewCustomerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- DemoProject -->
+</testng-results>
